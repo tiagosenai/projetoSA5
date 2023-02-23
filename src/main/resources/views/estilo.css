@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+body{
+	font: 100% Lucida Sans, Verdana;
+	margin: 15px;
+	line-height: 30px;
+}
+
+#topo{
+	border-radius: 20px;
+	background-color: #04aa6d;
+	padding: 10px;
+	color: white;
+	text-align: center;
+	margin: 5px;
+}
