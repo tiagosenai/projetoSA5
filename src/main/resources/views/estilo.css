@@ -13,3 +13,36 @@ body{
 	text-align: center;
 	margin: 5px;
 }
+
+#corpo{
+	position: relative;
+	overflow: auto;
+	margin: 5px;
+}
+
+#menu{
+	width: 220px;
+	float: left;
+	background-color: #04aa6d;
+	color: white;
+	padding: 5px;
+	border-radius: 15px;
+}
+
+#conteudo{
+	width: 1080px;
+	float: right;
+	background-color: #04aa6d;
+	color: white;
+	padding: 5px;
+	border-radius: 15px;
+}
+
+#rodape{
+	background-color: #04aa6d;
+	color: white;
+	padding: 10px;
+	border-radius: 15px;
+	text-align: center;
+	margin: 5px;
+}
